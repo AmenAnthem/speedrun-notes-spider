@@ -31,7 +31,7 @@ author: AmenAnthem
 - Level select: Re-enter level
 - Go right, up, jump up first flamethrower, get **disk fragment**, get **S-bomb**, exit to right
 ## Mechanical Arm Boss
-- Level select: Down
+- Level select: Down, down
 - Use S-bombs after arm hit floor
 ## Tubes 1
 - Level select: Up
@@ -39,7 +39,7 @@ author: AmenAnthem
 ## Tubes 2
 - Level select: Re-enter level
 - Go right, stick to right wall, down, right, up, get **poisoner**, up, exit to right
-## Tubes 2
+## Tubes 3
 - Level select: Re-enter level
 - Go right, stick to right wall, down, right, stick to right wall in upper tube but don't go up, right, down, exit to right
 ## Down The Street
@@ -49,7 +49,7 @@ author: AmenAnthem
 - Level select: Left
 - Go left, up wood, up pipe, left, up, exit to left
 ## Side Of Building 2
-- Level select: Left
+- Level select: Re-enter level
 - Go left, up wood, up pipe, right, up, right, exit on lower platform
 ## Park 1
 - Level select: Down
