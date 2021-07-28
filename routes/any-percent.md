@@ -43,7 +43,7 @@ author: AmenAnthem
 - Level select: Re-enter level
 - Go right, stick to right wall, down, right, stick to right wall in upper tube but don't go up, right, down, exit to right
 ## Down The Street
-- Level select: Down, skip cut scene
+- Level select: Down, down, skip cut scene
 - Go right, get **missile**, exit to right
 ## Side Of Building 1
 - Level select: Left
